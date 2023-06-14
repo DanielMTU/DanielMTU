@@ -1,4 +1,4 @@
-![MasterHead width="400"](https://static.vecteezy.com/system/resources/previews/007/795/845/non_2x/retro-sci-fi-futuristic-background-1980s-and-1990s-style-3d-illustration-digital-landscape-in-a-cyber-world-for-use-as-design-cover-free-vector.jpg) 
+<img height="200" src="https://static.vecteezy.com/system/resources/previews/007/795/845/non_2x/retro-sci-fi-futuristic-background-1980s-and-1990s-style-3d-illustration-digital-landscape-in-a-cyber-world-for-use-as-design-cover-free-vector.jpg" img>
 
 <h1>Hi, I'm Daniel 👋👨‍💻</h1>
 <h3 align="center">Engineer Mech. Elec. 👨‍🚀/ Data Scientist Enthusiast 🚀/ FrontEnd learning 🧩</h3>
