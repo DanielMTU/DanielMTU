@@ -2,7 +2,9 @@
 <h3 align="center">Engineer Mech. Elec. 👨‍🚀/ Data Scientist Enthusiast 🚀/ FrontEnd learning 🧩</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danielmtu&label=Profile%20views&color=0e75b6&style=flat" alt="danielmtu" /> </p>
-<img align="right" alt="Coding" src="https://giphy.com/embed/YYW0hHizzIOrlhimPG" width="474" height="480" frameBorder="0" class="giphy-embed" allowFullScreen>
+<img align="right" alt="Coding" src="https://giphy.com/embed/YYW0hHizzIOrlhimPG" width="474" height="480" frameBorder="0" class="giphy-embed" img>
+
+
 
 - 🌱 I’m currently learning **Frontend, React**
 
