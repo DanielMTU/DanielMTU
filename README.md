@@ -1,4 +1,4 @@
-<img height="300" width="1000" src="https://i.pinimg.com/originals/1d/72/a2/1d72a2ecc5710dcabf7c0e95e3bccb16.gif" img>
+<img height="300" width="1000" src="https://i.pinimg.com/originals/1d/72/a2/1d72a2ecc5710dcabf7c0e95e3bccb16.gif" frameBorder="0" class="giphy-embed" img>
 
 <h1>Hi, I'm Daniel 👋👨‍💻</h1>
 <h3 align="center">Engineer Mech. Elec. 👨‍🚀/ Data Scientist Enthusiast 🚀/ FrontEnd learning 🧩</h3>
