@@ -27,8 +27,6 @@
 <br>
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danielmtu&show_icons=true&locale=en&layout=compact" alt="danielmtu" /></p>
-<br>
-<br>
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danielmtu&" alt="danielmtu" /></p>
 <br>
 <br>
