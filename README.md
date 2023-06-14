@@ -29,7 +29,7 @@
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danielmtu&" alt="danielmtu" /></p>
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danielmtu&show_icons=true&locale=en" alt="danielmtu" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=danielmtu&show_icons=true&locale=en" alt="danielmtu" /></p>
 
 
 
