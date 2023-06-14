@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **danielhugo.manrique@gmail.com**
 
-- ⚡ Fun fact **Techguy that play some chess**
+- ⚡ Fun fact **Let's play chess!♟ **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
