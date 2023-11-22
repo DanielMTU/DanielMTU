@@ -1,7 +1,7 @@
 <img width="1000" height="200" src="https://static.vecteezy.com/system/resources/previews/007/795/845/non_2x/retro-sci-fi-futuristic-background-1980s-and-1990s-style-3d-illustration-digital-landscape-in-a-cyber-world-for-use-as-design-cover-free-vector.jpg" img>
 
 <h1>Hi, I'm Daniel 👋👨‍💻</h1>
-<h3 align="center">Engineer Mech. Elec. 👨‍🚀/ Data Scientist Enthusiast 🚀/ FrontEnd learning 🧩</h3>
+<h3 align="center">Engineer Mech. Elec. 👨‍🚀/ Data Scientist 🚀/ FrontEnd Dev. 🧩</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danielmtu&label=Profile%20views&color=0e75b6&style=flat" alt="danielmtu" /> </p>
 <img align="right" alt="Coding" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzA1MzU0ZmNjOWVlZGVmMjcxOGJmMTcyZjBhZjhjNjhlOTU0OTdlNiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/YYW0hHizzIOrlhimPG/giphy.gif" width="4
